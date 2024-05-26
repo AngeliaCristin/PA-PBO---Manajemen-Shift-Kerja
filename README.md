@@ -2,5 +2,5 @@ Project ini bertema manajemen shift kerja yang digunakan untuk manajemen shift k
 Project ini merupakan hasil kolaborasi pbo x dbd
 
 Our Member Kelompok 19
-- Angelia Cristin
-- Adam Khautsar Leswono
+- Angelia Cristin (2209116015)
+- Adam Khautsar Leswono (2209116021)
